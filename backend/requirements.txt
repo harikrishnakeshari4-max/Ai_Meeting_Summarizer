@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic[email]
+python-dotenv
+motor
+pymongo
+python-jose[cryptography]
+pwdlib[argon2]
+faster-whisper
+pyannote.audio
+chromadb
+requests
